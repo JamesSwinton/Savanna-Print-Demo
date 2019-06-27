@@ -8,7 +8,7 @@ import retrofit2.converter.scalars.ScalarsConverterFactory;
 public class RetrofitInstance {
 
   private static Retrofit retrofitInstance = null;
-  private static final String BASE_URL = "https://sandbox-api.zebra.com/v2/printers-basic/print/";
+  private static final String BASE_URL = "https://sandbox-api.zebra.com/v2/printers-basic/";
 
   public static Retrofit getInstance() {
     if (retrofitInstance == null) {
