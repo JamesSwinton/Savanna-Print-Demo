@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools">
+
+  <LinearLayout
+    android:id="@+id/base_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.TextInputLayout
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="1"
+      android:hint="Printer Serial Number"
+      style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+      <android.support.design.widget.TextInputEditText
+        android:id="@+id/printer_serial_number"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/serial_number"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <ImageView
+      android:id="@+id/zpl_preview"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="4"
+      android:src="@drawable/zpl_label_preview"/>
+
+    <EditText
+      android:id="@+id/zpl"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:inputType="textMultiLine"
+      android:layout_weight="4"
+      android:text="@string/zpl_label_droidcon"/>
+
+    <Button
+      android:id="@+id/print_button"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight="1"
+      android:text="PRINT"
+      style="@style/Widget.AppCompat.Button.Colored"/>
+
+  </LinearLayout>
+</layout>

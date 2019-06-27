@@ -1,0 +1,6 @@
+
+Tsquid:S2696M"6Make the enclosing method "static" or remove this set.(öªö‹8Ê‚ô¸-
+Ysquid:S2696N"6Make the enclosing method "static" or remove this set.(Íœ€şÿÿÿÿ8Ê‚ô¸-
+Ysquid:S2696A"6Make the enclosing method "static" or remove this set.(ÙŞçÑúÿÿÿÿ8ıúÍó¸-
+vsquid:S1450""XRemove the "mPrintApi" field and declare it as a local variable in the relevant methods.(äğçÇ8¦ˆ•õ¸-
+esquid:UselessImportCheck":Remove this unused import 'android.content.res.Resources'.(ÿÃÜó8Ê‚ô¸-

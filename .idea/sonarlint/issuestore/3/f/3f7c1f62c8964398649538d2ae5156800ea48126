@@ -1,0 +1,22 @@
+
+Zsquid:S2696Â"6Make the enclosing method "static" or remove this set.(ÌëÛøÿÿÿÿ8Øãõ¸-
+esquid:CallToDeprecatedMethod©"0Remove this use of "pickList"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ8Øãõ¸-
+esquid:CallToDeprecatedMethod©"0Remove this use of "PickList"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ8Øãõ¸-
+Ysquid:S2696V"6Make the enclosing method "static" or remove this set.(°Î”‘üÿÿÿÿ8Øãõ¸-
+Ssquid:S1141€"5Extract this nested try block into a separate method.(®öÚo8ì±‡õ¸-
+Qsquid:S1444".Make this "public static mContext" field final(Ê®âÿÿÿÿÿ8Ñîó¸-
+Qsquid:S1444!".Make this "public static mScanner" field final(½±şØÿÿÿÿÿ8Ñîó¸-
+usquid:S3776i"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(è×’ûÿÿÿÿ8ì±‡õ¸-
+Usquid:S2696½"6Make the enclosing method "static" or remove this set.(Ë¬Ûï8Øãõ¸-
+dsquid:CallToDeprecatedMethod©"/Remove this use of "ENABLED"; it is deprecated.(ÃÊ›¯ÿÿÿÿÿ8Øãõ¸-
+jsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(×çúˆıÿÿÿÿ8ì±‡õ¸-
+Tsquid:S26963"6Make the enclosing method "static" or remove this set.(±¼©Â8Ñîó¸-
+Ysquid:S26960"6Make the enclosing method "static" or remove this set.(ÖÛßÈşÿÿÿÿ8Ñîó¸-
+Ysquid:S2696D"6Make the enclosing method "static" or remove this set.(³êÍçüÿÿÿÿ8Øãõ¸-
+Tsquid:S2696k"6Make the enclosing method "static" or remove this set.(®•–æ8Øãõ¸-
+Zsquid:S2696¥"6Make the enclosing method "static" or remove this set.(Äî²‹ıÿÿÿÿ8Øãõ¸-
+Ysquid:S2696A"6Make the enclosing method "static" or remove this set.(¢óƒôıÿÿÿÿ8— õ¸-
+"squid:ClassVariableVisibilityCheck!"TMake mScanner a static final constant or non-public and provide accessors if needed.(½±şØÿÿÿÿÿ8Ñîó¸-
+Gsquid:S1148"#Use a logger to log this exception.(×çúˆıÿÿÿÿ8ì±‡õ¸-
+"squid:ClassVariableVisibilityCheck"TMake mContext a static final constant or non-public and provide accessors if needed.(Ê®âÿÿÿÿÿ8Ñîó¸-
+msquid:S2259a"PA "NullPointerException" could be thrown; "emdkManagerResults" is nullable here.(ãáƒ8Øãõ¸-

@@ -1,0 +1,11 @@
+
+\squid:UselessImportCheck"1Remove this unused import 'retrofit2.http.Query'.(ÔÑîì8ÈËÅó¸-
+jsquid:UselessImportCheck	":Remove this unused import 'retrofit2.http.FormUrlEncoded'.(îÙÂüÿÿÿÿ8ÀÉêõ¸-
+ysquid:UselessImportCheck"IRemove this unused import 'android.provider.SyncStateContract.Constants'.(ƒ ª×üÿÿÿÿ8¦­…ö¸-
+\squid:UselessImportCheck"1Remove this unused import 'retrofit2.http.Field'.(ÂÍ‹»8àëõ¸-
+`squid:UselessImportCheck"0Remove this unused import 'retrofit2.http.Part'.(Ì—’Áÿÿÿÿÿ8Ì™™ö¸-
+Zsquid:UselessImportCheck
+"/Remove this unused import 'retrofit2.http.GET'.(¬ü‰´8è¿ó¸-
+^squid:UselessImportCheck"3Remove this unused import 'retrofit2.http.Headers'.(…ŒÏó8Èæêõ¸-
+esquid:UselessImportCheck"5Remove this unused import 'retrofit2.http.Multipart'.(ù«÷åşÿÿÿÿ8Ïè˜ö¸-
+\squid:UselessImportCheck"1Remove this unused import 'okhttp3.ResponseBody'.(Õ«ø8çŞ®ö¸-
