@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
   private static final String TAG = "MainActivity";
 
   // Constants
-  private static final String API_KEY = "7GL4l9liBV1mq8nOzAsMNP0c0ieRqkql";
+  private static final String API_KEY = "YOUR_API_KEY";
   private static final Handler mMainThreadHandler = new Handler(Looper.getMainLooper());
 
   // Static Variables
